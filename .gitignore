@@ -1,1 +1,3 @@
-venv/\n*.log\n.vscode/
+venv/
+*.log
+.vscode/
